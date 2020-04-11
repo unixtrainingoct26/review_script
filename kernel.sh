@@ -12,3 +12,4 @@ free -m
 iostat
 cat /etc/os-release
 nproc
+sar -u
