@@ -13,3 +13,7 @@ iostat
 cat /proc/meminfo
 cat /proc/cpuinfo
 lsb_release -a
+cat /etc/os-release
+nproc
+sar -u
+>>>>>>> 27f78fe62a0e9babb9bae9c00e270eccf1c4352c
